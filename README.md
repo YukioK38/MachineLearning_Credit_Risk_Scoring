@@ -31,13 +31,20 @@ The goal is to predict the probability that a customer will default, using data 
 ## Repository structure
 
 MachineLearning_Credit_Risk_Scoring/
-├── data/                  # Raw and processed data (cs-training.csv, cs-test.csv)
-├── notebooks/             # Exploratory analysis and plots
-├── src/                   # Source code (FRED collection, pipeline, training, evaluation)
-├── models/                # Trained models (.pkl)
-├── outputs/                # Results, plots, and Kaggle submission
-├── requirements.txt
-└── README.md
+
+─ data/                  # Raw and processed data (cs-training.csv, cs-test.csv)
+
+─ notebooks/             # Exploratory analysis and plots
+
+─ src/                   # Source code (FRED collection, pipeline, training, evaluation)
+
+─ models/                # Trained models (.pkl)
+
+─ outputs/                # Results, plots, and Kaggle submission
+
+─ requirements.txt
+
+─ README.md
 
 ##  Tech stack
 
