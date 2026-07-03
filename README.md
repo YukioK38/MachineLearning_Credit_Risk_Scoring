@@ -86,7 +86,7 @@ streamlit run app/app.py
 
 Mathematical details for each model (Logistic Regression, Random Forest, and XGBoost) are available in the full article's Appendix section.
 
-## 📊 Results
+## Results
 
 | Model | AUC-ROC | KS | Precision | Recall | F1 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -119,7 +119,7 @@ Open to Data Science opportunities:
 - LinkedIn: [fabio-kitsuwa](https://br.linkedin.com/in/fabio-kitsuwa)
 - GitHub: [YukioK38](https://github.com/YukioK38)
 
-## 📄 License
+## License
 
 Code: licensed under the MIT License.
 Article: licensed under CC BY 4.0.
