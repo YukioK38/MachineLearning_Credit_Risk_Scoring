@@ -83,8 +83,8 @@ with tab1:
 with tab2:
     st.header("Predict Risk for a single client")
     model_choice = st.selectbox(
-        "Selecta a model",
-    options=["logistic_regression", "random_forest", "XGBoost"]
+        "Select a model",
+    options=["XGBoost", "random_forest", "logistic_regression"]
     )
 
     st.divider()
