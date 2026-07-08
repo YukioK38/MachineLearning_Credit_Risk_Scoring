@@ -1,5 +1,7 @@
 # Machine Learning Credit Risk Scoring
 
+Try the [Streamlit App](https://dashboard-simulation.streamlit.app/)!
+
 A **credit risk scoring** model comparing Logistic Regression, Random Forest, and XGBoost, enriched with macroeconomic data collected via the FRED (Federal Reserve) API, and interpreted with SHAP to address requirements under **LGPD (Brazil's data protection law), Art. 20**.
 
 > **TL;DR:** The best model (XGBoost) achieved an **AUC-ROC of 0.8603**, corresponding to a public score of **0.86204** on Kaggle's *Give Me Some Credit* competition, good enough for the **TOP 100** (1st place: 0.869).
