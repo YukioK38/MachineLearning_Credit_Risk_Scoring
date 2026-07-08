@@ -1,6 +1,6 @@
 # Machine Learning Credit Risk Scoring
 
-Try the [Streamlit App](https://dashboard-simulation.streamlit.app/)!
+## Try the [Streamlit App](https://dashboard-simulation.streamlit.app/)!
 
 A **credit risk scoring** model comparing Logistic Regression, Random Forest, and XGBoost, enriched with macroeconomic data collected via the FRED (Federal Reserve) API, and interpreted with SHAP to address requirements under **LGPD (Brazil's data protection law), Art. 20**.
 
